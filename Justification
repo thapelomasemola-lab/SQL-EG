@@ -1,0 +1,13 @@
+jUSTIFICATION FOR USING DATABASE
+
+>An institution that manages student information on paper or in scattered spreadsheets quickly runs into trouble as enrolment grows. The institution needs a centralized Student Database Management System to store, manage and control all student-related data including student personal information, academic records, courses, fees and staff information in one secure place.
+>Data duplication and Inconsistency: Each student’s details are stored once and linked to other records, so a change of address or contact number is made in one place and appears everywhere.
+*Slow searching: Records that took minutes or hours to find in files can be retrieved in seconds by searching a student number, name or course.
+*Difficulty linking information: Relationships between students, courses, lecturers and results are built into the database, so a student’s full academic history can be viewed at once.
+>Improved accuracy: Validation and a single copy of each record reduce typing mistakes and conflicting information.
+
+*Better security: Passwords, role-based access and backups protect student privacy and support compliance with data protection laws.
+*Better data organization: Information is structured into related tables (Student, Course, Lecturer, Enrolment, Results) making it easy to manage and manage.
+*Faster reporting: Class list, pass rates, attendance summaries and academic transcripts can be generated quickly and automatically.
+*Efficient retrieval of information: Authorized users can find any student’s information instantly.
+ 

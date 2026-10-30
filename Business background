@@ -1,0 +1,16 @@
+BUSINESS BACKGROUND AND CURRENT PROCESSES
+
+
+The organisation chosen for this project is an institution that provides education to students in different departments and courses. The Database needs to keep student information organised to ensure that academic activities run smoothly. This information includes student details, departments, courses, lecture, enrolments, attendance, and academic results.
+
+The institution performs different activities to ensure that everything runs smoothly. These include Student Attendance, assigning them to courses and departments, keeping track of academic results, and managing scholarship information. lecturers are responsible for collecting and updating this information.
+
+Without a proper database system, managing student information can become difficult. Records may be duplicated, misplaced, or entered incorrectly. Finding a particular student's information can also take a lot of time, especially when Lectures need to search through many documents or files. Updating information in different places may lead to inconsistencies.
+
+Loss of records, Student information can be misplaced, damaged, or lost, making it difficult to find important details when needed.
+
+Duplicate records, the same student's information may be recorded more than once, which can cause confusion and errors.
+
+Time consuming, processes Lectures may spend a lot of time searching for student details, updating academic results.
+
+Limited backup options, if records are lost and no backup exists, it may be difficult to recover the information.

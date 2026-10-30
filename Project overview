@@ -1,19 +1,13 @@
 PROJECT OVERVIEW
 
 This project focuses on designing an Entity Relationship Diagram (ERD) for a Student Management System. The system is designed to manage and store information related to departments, courses, lecturers, students, enrollments, results, scholarships, and attendance records. The ERD provides a structured representation of how these entities interact with one another and supports the efficient storage, retrieval, and management of academic data. The design follows the business rules of the institution to ensure data integrity and minimize redundancy.
+
 Project Objectives
 
-1.
-To identify and define the entities required in the Student Management System, including Department, Course, Lecturer, Student, Enrollment, Result, Scholarship, and Attendance.
-2.
-To establish relationships between entities according to the specified business rules.
-3.
-To define primary keys and foreign keys that maintain referential integrity within the database.
-4.
-To create a database structure that reduces data duplication and improves consistency.
-5.
-To support the management of student enrollments, academic results, attendance records, and scholarship awards.
-6.
-To provide an accurate visual representation of the relationships between departments, lecturers, courses, and students.
-7.
-To ensure efficient storage, maintenance, and retrieval of academic information within the institution.
+1.To identify and define the entities required in the Student Management System, including Department, Course, Lecturer, Student, Enrollment, Result, Scholarship, and Attendance.
+2.To establish relationships between entities according to the specified business rules.
+3.To define primary keys and foreign keys that maintain referential integrity within the database.
+4.To create a database structure that reduces data duplication and improves consistency.
+5.To support the management of student enrollments, academic results, attendance records, and scholarship awards.
+6.To provide an accurate visual representation of the relationships between departments, lecturers, courses, and students.
+7.To ensure efficient storage, maintenance, and retrieval of academic information within the institution.
